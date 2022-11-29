@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  RxPlayground
 //
-//  Created by solgoon on 2022/09/25.
+//  Created by swiftyCody on 2022/09/25.
 //
 
 import UIKit

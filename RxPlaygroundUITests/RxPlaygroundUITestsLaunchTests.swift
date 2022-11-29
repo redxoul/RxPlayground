@@ -2,7 +2,7 @@
 //  RxPlaygroundUITestsLaunchTests.swift
 //  RxPlaygroundUITests
 //
-//  Created by solgoon on 2022/09/25.
+//  Created by swiftyCody on 2022/09/25.
 //
 
 import XCTest
