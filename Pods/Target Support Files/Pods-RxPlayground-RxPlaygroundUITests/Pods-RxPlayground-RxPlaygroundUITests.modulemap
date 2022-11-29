@@ -1,0 +1,6 @@
+framework module Pods_RxPlayground_RxPlaygroundUITests {
+  umbrella header "Pods-RxPlayground-RxPlaygroundUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
