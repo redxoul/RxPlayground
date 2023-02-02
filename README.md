@@ -1,10 +1,10 @@
 # RxPlayground
 
-: RxSwift의 간단한 예제들을 모아 작성해놓은 Playground 입니다.
+: RxSwift의 간단한 예제들과 설명을 모아 작성해놓은 Playground 입니다.
 
 -------------------------------------------------------
 
-1. RxSwift 정리에 앞서
+1. Intro
 - https://swifty-cody.tistory.com/55
 
 2. RxSwift의 기본 요소 및 LifeCycle
